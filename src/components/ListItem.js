@@ -30,8 +30,9 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         justifyContent: 'space-around',
         alignItems: 'center',
-        borderWidth: 5,
-        backgroundColor: 'indianred'
+        borderBottomWidth: 2,
+        borderColor:"#03867A",
+        backgroundColor: 'transparent'
     },
     temp:
     {

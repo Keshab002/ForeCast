@@ -3,33 +3,46 @@ import babelConfig from "../../babel.config";
 export const weatherType = {
     ThunderStorm: {
         icon: 'zap',
-        message: 'It could get noisy',
-        backgroundColor: '#000000',
+        message: 'Snuggling inside while the storm rages outside.',
+        backgroundColor: '#4C4855',
+        gradient1:"#08001A",
+        gradient2:"#4C4855"
      },
     Drizzle: { 
         icon: 'cloud-rain',
-        message: 'It might rain a little',
-        backgroundColor: '#36454f'
+        message: 'Uh oh, umbrella dance time!',
+        backgroundColor: '#287CBA',
+        gradient1:"#123854",
+        gradient2:"#287CBA"
     },
     Rain: { 
         icon: 'umbrella',
-        message: 'You will need an Umbrella',
-        backgroundColor: '#0000ff'
+        message: 'Time to grab your raincoat!',
+        backgroundColor: '#61AEE5',
+        gradient1:"#0E2E45",
+        gradient2:"#61AEE5"
     },
     Snow: { 
         icon: 'cloud-snow',
-        message: 'Lets build a snowman',
-        backgroundColor: '#7f6065',
+        message: 'Snow day? More like snow FUN day!',
+        backgroundColor: '#8BAEC8',
+        gradient1:"#8BAEC8",
+        gradient2:"#8BAEC8"
     },
     Clear: { 
         icon: 'sun',
-        message: 'It is perfect t-shirt weather',
-        backgroundColor: '#e47200'
+        message: 'Be your own sunshine!',
+        backgroundColor: '#2D6A96',
+        gradient1:"#1082B4",
+        gradient2:"#D7F1FC"
     },
     Clouds: { 
         icon: 'cloud',
         message: 'You could live in the clouds',
-        backgroundColor: '#363363'
+        backgroundColor: '#123854',
+        gradient1:"#17496E",
+        gradient2:"#17496E"
+
     },
     Haze: { 
         icon: 'wind',
@@ -38,7 +51,9 @@ export const weatherType = {
     },
     Mist: { 
         icon: 'align-justify',
-        message: 'It might be hard to see',
-        backgroundColor: '#3e3e37'
+        message: 'Mist-kissed mornings, a chance to start fresh. ️',
+        backgroundColor: '#001A14',
+        gradient1:"#001A14",
+        gradient2:"#B6D5EB"
     }
 }

@@ -1,5 +1,5 @@
 import React from "react"
-import { StyleSheet,  SafeAreaView, FlatList, StatusBar, ImageBackground } from "react-native"
+import { StyleSheet,  SafeAreaView, FlatList, View, Text, StatusBar, ImageBackground } from "react-native"
 import ListItem from "../components/ListItem"
 
 
@@ -10,13 +10,16 @@ const UpcomingWhether = ({weatherData}) => {
     return (
         <SafeAreaView style={styles.container}>
             {/* <StatusBar translucent backgroundColor={'royalblue'} /> */}
-            <ImageBackground style={styles.image} source={require('../images/dark.jpg')}>
+                <View style={{marginVertical: 30,marginLeft:20}}>
+                    <Text style={{color:"white",fontFamily:"LexendMega-Bold",fontSize:20}}>Upcoming Weather</Text>
+                </View>
+            
                 <FlatList
                     data={weatherData}
                     renderItem={renderItem}
                     keyExtractor={(item) => item.dt_txt}
                 />
-            </ImageBackground>
+    
         </SafeAreaView>
     )
 }
@@ -26,7 +29,7 @@ const styles = StyleSheet.create(
         container:
         {
             flex: 1,
-            backgroundColor: 'royalblue',
+            backgroundColor: '#022E2E',
             // marginTop: StatusBar.currentHeight || 0
         },
         image:

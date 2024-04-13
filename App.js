@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from 'react'
-import { ActivityIndicator, View, StyleSheet, PermissionsAndroid } from 'react-native'
+import React from 'react'
+import { ActivityIndicator, View, StyleSheet, } from 'react-native'
 import { NavigationContainer } from '@react-navigation/native'
 import Tabs from './src/components/Tabs'
 import { UseGetWhether } from './src/hooks/usegetwhether';
@@ -25,8 +25,6 @@ const App = () => {
         <ActivityIndicator size={'large'} color={'blue'} />)}
     </View>
   )
-
-
 }
 
 const styles = StyleSheet.create({
