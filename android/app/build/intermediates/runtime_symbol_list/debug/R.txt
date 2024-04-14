@@ -3022,9 +3022,12 @@ int drawable redbox_top_border_background 0x7f0700f1
 int drawable rn_edit_text_material 0x7f0700f2
 int drawable src_images_city 0x7f0700f3
 int drawable src_images_dark 0x7f0700f4
-int drawable test_level_drawable 0x7f0700f5
-int drawable tooltip_frame_dark 0x7f0700f6
-int drawable tooltip_frame_light 0x7f0700f7
+int drawable src_images_location 0x7f0700f5
+int drawable src_images_upcoming 0x7f0700f6
+int drawable src_images_weather 0x7f0700f7
+int drawable test_level_drawable 0x7f0700f8
+int drawable tooltip_frame_dark 0x7f0700f9
+int drawable tooltip_frame_light 0x7f0700fa
 int id ALT 0x7f080000
 int id BOTTOM_END 0x7f080001
 int id BOTTOM_START 0x7f080002

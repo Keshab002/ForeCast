@@ -40,6 +40,7 @@ com.whetherapp-merged_res-38 /home/spidy/Coding/Personal_projects/ForeCast-local
 com.whetherapp-debug-39 /home/spidy/Coding/Personal_projects/ForeCast-local/android/app/src/debug/res
 com.whetherapp-main-40 /home/spidy/Coding/Personal_projects/ForeCast-local/android/app/src/main/res
 com.whetherapp-packaged_res-41 /home/spidy/Coding/Personal_projects/ForeCast-local/node_modules/@react-native-community/geolocation/android/build/intermediates/packaged_res/debug
-com.whetherapp-packaged_res-42 /home/spidy/Coding/Personal_projects/ForeCast-local/node_modules/react-native-safe-area-context/android/build/intermediates/packaged_res/debug
-com.whetherapp-packaged_res-43 /home/spidy/Coding/Personal_projects/ForeCast-local/node_modules/react-native-screens/android/build/intermediates/packaged_res/debug
-com.whetherapp-packaged_res-44 /home/spidy/Coding/Personal_projects/ForeCast-local/node_modules/react-native-vector-icons/android/build/intermediates/packaged_res/debug
+com.whetherapp-packaged_res-42 /home/spidy/Coding/Personal_projects/ForeCast-local/node_modules/react-native-linear-gradient/android/build/intermediates/packaged_res/debug
+com.whetherapp-packaged_res-43 /home/spidy/Coding/Personal_projects/ForeCast-local/node_modules/react-native-safe-area-context/android/build/intermediates/packaged_res/debug
+com.whetherapp-packaged_res-44 /home/spidy/Coding/Personal_projects/ForeCast-local/node_modules/react-native-screens/android/build/intermediates/packaged_res/debug
+com.whetherapp-packaged_res-45 /home/spidy/Coding/Personal_projects/ForeCast-local/node_modules/react-native-vector-icons/android/build/intermediates/packaged_res/debug
