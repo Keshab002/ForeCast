@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.whetherapp-mergeDebugResources-36:/values-bg/values-bg.xml",
+            "outputFile": "com.forecast.app-mergeDebugResources-36:/values-bg/values-bg.xml",
             "map": [
                 {
                     "source": "/home/spidy/.gradle/caches/transforms-3/c59a55b27e44a3e0723d16f567fd1d1e/transformed/jetified-play-services-base-18.1.0/res/values-bg/values.xml",

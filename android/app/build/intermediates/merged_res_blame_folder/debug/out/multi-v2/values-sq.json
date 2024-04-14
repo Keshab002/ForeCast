@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.whetherapp-mergeDebugResources-36:/values-sq/values-sq.xml",
+            "outputFile": "com.forecast.app-mergeDebugResources-36:/values-sq/values-sq.xml",
             "map": [
                 {
                     "source": "/home/spidy/.gradle/caches/transforms-3/b3627ca143232ec2ceb6e319eb18971d/transformed/appcompat-1.6.1/res/values-sq/values-sq.xml",

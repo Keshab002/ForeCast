@@ -49,16 +49,17 @@ const styles = StyleSheet.create({
   container:
   {
     marginTop: height * 0.12,
-    marginLeft: width * 0.25,
   },
   tempstyles:
   {
     fontFamily: 'LexendTera-Thin',
     color: "white",
     fontSize: 48,
+    alignSelf:"center"
   },
   feels:
   {
+    alignSelf:"center",
     fontFamily: 'LexendTera-Thin',
     color: 'white',
     fontSize: 17,

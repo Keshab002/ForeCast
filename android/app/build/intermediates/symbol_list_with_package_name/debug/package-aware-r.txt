@@ -1,4 +1,4 @@
-com.whetherapp
+com.forecast
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -3005,8 +3005,6 @@ drawable mtrl_switch_track
 drawable mtrl_switch_track_decoration
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
-drawable node_modules_reactnavigation_elements_src_assets_backicon
-drawable node_modules_reactnavigation_elements_src_assets_backiconmask
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -3021,11 +3019,6 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable redbox_top_border_background
 drawable rn_edit_text_material
-drawable src_images_city
-drawable src_images_dark
-drawable src_images_location
-drawable src_images_upcoming
-drawable src_images_weather
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light

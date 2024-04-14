@@ -5,6 +5,7 @@ import { WHETHER_API_KEY } from '@env'
 
 
 export const UseGetWhether = () => {
+    // console.log(WHETHER_API_KEY)
     const [loading, setloading] = useState(true)
     const [weather, setweather] = useState([])
     const [error, setError] = useState(null)

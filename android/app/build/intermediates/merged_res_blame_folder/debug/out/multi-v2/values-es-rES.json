@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.whetherapp-mergeDebugResources-36:/values-es-rES/values-es-rES.xml",
+            "outputFile": "com.forecast.app-mergeDebugResources-36:/values-es-rES/values-es-rES.xml",
             "map": [
                 {
                     "source": "/home/spidy/.gradle/caches/transforms-3/e1231b5b187cb579b629117f9511a862/transformed/jetified-react-android-0.73.6-debug/res/values-es-rES/values-es-rES.xml",

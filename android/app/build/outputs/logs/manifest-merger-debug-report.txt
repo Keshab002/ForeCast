@@ -7,7 +7,10 @@ INJECTED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/debu
 INJECTED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:flipper-integration:0.73.6] /home/spidy/.gradle/caches/transforms-3/7ceec762c322db3b2ee74240d8e71306/transformed/jetified-flipper-integration-0.73.6-debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:react-native-community_geolocation] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-community_masked-view] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-gesture-handler] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:react-native-linear-gradient] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-reanimated] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:react-native-safe-area-context] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:react-native-screens] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:react-native-vector-icons] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
@@ -101,17 +104,17 @@ MERGED from [com.facebook.flipper:flipper:0.201.0] /home/spidy/.gradle/caches/tr
 	android:name
 		ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:3:22-64
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:4:5-79
+ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:5:5-79
 	android:name
-		ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:4:22-76
+		ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:5:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:5:5-81
+ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:5:22-78
+		ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:6:22-78
 uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
-ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:6:5-85
+ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:7:5-85
 	android:name
-		ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:6:22-82
+		ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:7:22-82
 application
 ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:9:5-28:19
 MERGED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:9:5-28:19
@@ -173,7 +176,7 @@ MERGED from [com.facebook.soloader:soloader:0.10.5] /home/spidy/.gradle/caches/t
 	android:name
 		ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:10:7-38
 		ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:10:7-38
-activity#com.whetherapp.MainActivity
+activity#com.forecast.MainActivity
 ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:16:7-27:18
 	android:label
 		ADDED from /home/spidy/Coding/Personal_projects/ForeCast/android/app/src/main/AndroidManifest.xml:18:9-41
@@ -205,8 +208,14 @@ MERGED from [com.facebook.react:flipper-integration:0.73.6] /home/spidy/.gradle/
 MERGED from [com.facebook.react:flipper-integration:0.73.6] /home/spidy/.gradle/caches/transforms-3/7ceec762c322db3b2ee74240d8e71306/transformed/jetified-flipper-integration-0.73.6-debug/AndroidManifest.xml:5:5-44
 MERGED from [:react-native-community_geolocation] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:react-native-community_geolocation] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_masked-view] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_masked-view] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:react-native-linear-gradient] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:react-native-linear-gradient] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:react-native-safe-area-context] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:react-native-safe-area-context] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:react-native-screens] /home/spidy/Coding/Personal_projects/ForeCast/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
@@ -423,7 +432,7 @@ ADDED from [androidx.core:core:1.9.0] /home/spidy/.gradle/caches/transforms-3/13
 		ADDED from [androidx.core:core:1.9.0] /home/spidy/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
 	android:name
 		ADDED from [androidx.core:core:1.9.0] /home/spidy/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
-permission#com.whetherapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+permission#com.forecast.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.9.0] /home/spidy/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
 		ADDED from [androidx.core:core:1.9.0] /home/spidy/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
@@ -433,7 +442,7 @@ uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.9.0] /home/spidy/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.9.0] /home/spidy/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
-uses-permission#com.whetherapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+uses-permission#com.forecast.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.9.0] /home/spidy/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.9.0] /home/spidy/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:26:22-94

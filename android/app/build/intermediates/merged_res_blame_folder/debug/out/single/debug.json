@@ -1,90 +1,46 @@
 [
     {
-        "merged": "com.whetherapp-merged_res-38:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.whetherapp-main-40:/mipmap-mdpi/ic_launcher.png"
+        "merged": "com.forecast.app-merged_res-38:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.forecast.app-main-40:/drawable/rn_edit_text_material.xml"
     },
     {
-        "merged": "com.whetherapp-merged_res-38:/drawable-mdpi_src_images_upcoming.png.flat",
-        "source": "com.whetherapp-main-40:/drawable-mdpi/src_images_upcoming.png"
+        "merged": "com.forecast.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.forecast.app-main-40:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.whetherapp-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.whetherapp-main-40:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "com.forecast.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.forecast.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.whetherapp-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.whetherapp-main-40:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "com.forecast.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.forecast.app-main-40:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.whetherapp-merged_res-38:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.whetherapp-main-40:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.forecast.app-merged_res-38:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.forecast.app-main-40:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.whetherapp-merged_res-38:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.whetherapp-main-40:/mipmap-hdpi/ic_launcher.png"
+        "merged": "com.forecast.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.forecast.app-main-40:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.whetherapp-merged_res-38:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.whetherapp-main-40:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "com.forecast.app-merged_res-38:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.forecast.app-main-40:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.whetherapp-merged_res-38:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.whetherapp-main-40:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "com.forecast.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.forecast.app-main-40:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.whetherapp-merged_res-38:/drawable-mdpi_src_images_dark.jpg.flat",
-        "source": "com.whetherapp-main-40:/drawable-mdpi/src_images_dark.jpg"
+        "merged": "com.forecast.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.forecast.app-main-40:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.whetherapp-merged_res-38:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.whetherapp-main-40:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.forecast.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.forecast.app-main-40:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.whetherapp-merged_res-38:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
-        "source": "com.whetherapp-main-40:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
-    },
-    {
-        "merged": "com.whetherapp-merged_res-38:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.whetherapp-main-40:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
-    },
-    {
-        "merged": "com.whetherapp-merged_res-38:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.whetherapp-main-40:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
-    },
-    {
-        "merged": "com.whetherapp-merged_res-38:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.whetherapp-main-40:/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.whetherapp-merged_res-38:/drawable_rn_edit_text_material.xml.flat",
-        "source": "com.whetherapp-main-40:/drawable/rn_edit_text_material.xml"
-    },
-    {
-        "merged": "com.whetherapp-merged_res-38:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.whetherapp-main-40:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
-    },
-    {
-        "merged": "com.whetherapp-merged_res-38:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.whetherapp-main-40:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
-    },
-    {
-        "merged": "com.whetherapp-merged_res-38:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.whetherapp-main-40:/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.whetherapp-merged_res-38:/drawable-mdpi_src_images_weather.png.flat",
-        "source": "com.whetherapp-main-40:/drawable-mdpi/src_images_weather.png"
-    },
-    {
-        "merged": "com.whetherapp-merged_res-38:/drawable-mdpi_src_images_location.png.flat",
-        "source": "com.whetherapp-main-40:/drawable-mdpi/src_images_location.png"
-    },
-    {
-        "merged": "com.whetherapp-merged_res-38:/drawable-mdpi_src_images_city.jpg.flat",
-        "source": "com.whetherapp-main-40:/drawable-mdpi/src_images_city.jpg"
-    },
-    {
-        "merged": "com.whetherapp-merged_res-38:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.whetherapp-main-40:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.forecast.app-merged_res-38:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.forecast.app-main-40:/mipmap-mdpi/ic_launcher.png"
     }
 ]
